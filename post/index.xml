@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on glitchedcode</title>
-    <link>http://glitchedcode.com/post/</link>
+    <link>https://glitchedcode.com/post/</link>
     <description>Recent content in Posts on glitchedcode</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>peppe@glitchedcode.com (Giuseppe La Malfa)</managingEditor>
     <webMaster>peppe@glitchedcode.com (Giuseppe La Malfa)</webMaster>
     <lastBuildDate>Thu, 30 Nov 2023 15:19:28 +0100</lastBuildDate>
-    <atom:link href="http://glitchedcode.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://glitchedcode.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why have open world games become so boring?</title>
-      <link>http://glitchedcode.com/post/why-open-world-boring/</link>
+      <link>https://glitchedcode.com/post/why-open-world-boring/</link>
       <pubDate>Thu, 30 Nov 2023 15:19:28 +0100</pubDate><author>peppe@glitchedcode.com (Giuseppe La Malfa)</author>
-      <guid>http://glitchedcode.com/post/why-open-world-boring/</guid>
-      <description>&amp;ldquo;Open world&amp;rdquo; really has become just a buzzword for AAA game studios, just an extra you slap onto a videogame to make it more &amp;ldquo;marketable&amp;rdquo; and clickbaity to a mass of uninformed consumers. How did we let this happen? How did we let the videogame industry at large (save for a few notable exceptions) suck the excitement and the mystique out of incredibly large worlds with the potential to lend themselves to freedom in player expression?</description>
+      <guid>https://glitchedcode.com/post/why-open-world-boring/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Open world&amp;rdquo; really has become just a buzzword for AAA game studios, just an extra you slap onto a videogame to make it more &amp;ldquo;marketable&amp;rdquo; and clickbaity to a mass of uninformed consumers. How did we let this happen? How did we let the videogame industry at large (save for a few notable exceptions) suck the excitement and the mystique out of incredibly large worlds with the potential to lend themselves to freedom in player expression?&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://glitchedcode.com/post/my-first-post/</link>
+      <link>https://glitchedcode.com/post/my-first-post/</link>
       <pubDate>Wed, 29 Nov 2023 16:00:30 +0100</pubDate><author>peppe@glitchedcode.com (Giuseppe La Malfa)</author>
-      <guid>http://glitchedcode.com/post/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text. and this is how i remade this blog lmao&#xA;prova prova sssa sssa I DON&amp;rsquo;T CARE IF I GO BLIND, I DON&amp;rsquo;T NEED TO SEE THE PRICE TAG ANYWAY</description>
+      <guid>https://glitchedcode.com/post/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&#xA;and this is how i remade this blog lmao&lt;/p&gt;&#xA;&lt;p&gt;prova prova sssa sssa&#xA;I DON&amp;rsquo;T CARE IF I GO BLIND, I DON&amp;rsquo;T NEED TO SEE THE PRICE TAG ANYWAY&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

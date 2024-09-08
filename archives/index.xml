@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archives on glitchedcode</title>
-    <link>http://glitchedcode.com/archives/</link>
+    <link>https://glitchedcode.com/archives/</link>
     <description>Recent content in Archives on glitchedcode</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>peppe@glitchedcode.com (Giuseppe La Malfa)</managingEditor>
     <webMaster>peppe@glitchedcode.com (Giuseppe La Malfa)</webMaster>
-    <atom:link href="http://glitchedcode.com/archives/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://glitchedcode.com/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
